@@ -26,7 +26,14 @@ export default defineConfig({
       '~/': `${path.resolve(__dirname, 'src')}/`,
     },
   },
-
+  css: {
+    preprocessorOptions: {
+      scss: {
+        additionalData: `@use "~/styles/element/index.scss" as *;`,
+        api: 'modern-compiler',
+      },
+    },
+  },
   plugins: [
     // https://github.com/posva/unplugin-vue-router
     VueRouter({
