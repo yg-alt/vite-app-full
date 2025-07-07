@@ -1,0 +1,160 @@
+{
+  "\u0000/home/runner/work/vite-app-full/vite-app-full/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-es-import": [],
+  "\u0000/home/runner/work/vite-app-full/vite-app-full/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000plugin-vue:export-helper": [
+    "/vite-app-full/assets/_plugin-vue_export-helper-VWUGMVK_.js"
+  ],
+  "\u0000virtual:generated-layouts": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/vite-app-full/assets/virtual_pwa-register-NtDseWxT.js"
+  ],
+  "../../../../../__/vue-router/auto/route-block": [
+    "/vite-app-full/assets/route-block-B_A1xBdJ.js"
+  ],
+  "../../../../../__uno.css": [],
+  "../../../../../__vue-router/auto-routes": [],
+  "../../../../../vue-macros/define-models/use-vmodel": [
+    "/vite-app-full/assets/index-BEfprqvo.js"
+  ],
+  "assets/app-!~{001}~.js-unocss-hash.css": [],
+  "index.html": [],
+  "locales/ar.yml": [
+    "/vite-app-full/assets/ar-HvujSz0t.js"
+  ],
+  "locales/de.yml": [
+    "/vite-app-full/assets/de-tIfILiOM.js"
+  ],
+  "locales/en.yml": [
+    "/vite-app-full/assets/en-uqoOIB2y.js"
+  ],
+  "locales/es.yml": [
+    "/vite-app-full/assets/es-DCBmW4A7.js"
+  ],
+  "locales/fr.yml": [
+    "/vite-app-full/assets/fr-C-cySWgT.js"
+  ],
+  "locales/id.yml": [
+    "/vite-app-full/assets/id-Cdl9masJ.js"
+  ],
+  "locales/it.yml": [
+    "/vite-app-full/assets/it-CZF_x55d.js"
+  ],
+  "locales/ja.yml": [
+    "/vite-app-full/assets/ja-bk9vkbha.js"
+  ],
+  "locales/ka.yml": [
+    "/vite-app-full/assets/ka-DrXH8DM7.js"
+  ],
+  "locales/ko.yml": [
+    "/vite-app-full/assets/ko-D1Wq3H7u.js"
+  ],
+  "locales/pl.yml": [
+    "/vite-app-full/assets/pl-x_vaV0QH.js"
+  ],
+  "locales/pt-BR.yml": [
+    "/vite-app-full/assets/pt-BR-CJ3Aq30r.js"
+  ],
+  "locales/ru.yml": [
+    "/vite-app-full/assets/ru-BQt2BLfU.js"
+  ],
+  "locales/tr.yml": [
+    "/vite-app-full/assets/tr-CMH1HB1g.js"
+  ],
+  "locales/uk.yml": [
+    "/vite-app-full/assets/uk-PdFIL57p.js"
+  ],
+  "locales/uz.yml": [
+    "/vite-app-full/assets/uz-D9sR80nb.js"
+  ],
+  "locales/vi.yml": [
+    "/vite-app-full/assets/vi-BsN4yQMQ.js"
+  ],
+  "locales/zh-CN.yml": [
+    "/vite-app-full/assets/zh-CN-CME5MBO5.js"
+  ],
+  "node_modules/.pnpm/@intlify+core-base@11.1.2/node_modules/@intlify/core-base/dist/core-base.mjs": [],
+  "node_modules/.pnpm/@intlify+message-compiler@11.1.2/node_modules/@intlify/message-compiler/dist/message-compiler.mjs": [],
+  "node_modules/.pnpm/@intlify+shared@11.1.2/node_modules/@intlify/shared/dist/shared.mjs": [],
+  "node_modules/.pnpm/@unhead+vue@2.0.2_vue@3.5.13_typescript@5.8.2_/node_modules/@unhead/vue/dist/client.mjs": [],
+  "node_modules/.pnpm/@unhead+vue@2.0.2_vue@3.5.13_typescript@5.8.2_/node_modules/@unhead/vue/dist/shared/vue.BYLJNEcq.mjs": [],
+  "node_modules/.pnpm/@unhead+vue@2.0.2_vue@3.5.13_typescript@5.8.2_/node_modules/@unhead/vue/dist/shared/vue.N9zWjxoK.mjs": [],
+  "node_modules/.pnpm/@unocss+reset@66.1.0-beta.7/node_modules/@unocss/reset/tailwind.css": [],
+  "node_modules/.pnpm/@vue+reactivity@3.5.13/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-core@3.5.13/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-dom@3.5.13/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+shared@3.5.13/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@vueuse+core@13.0.0_vue@3.5.13_typescript@5.8.2_/node_modules/@vueuse/core/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+shared@13.0.0_vue@3.5.13_typescript@5.8.2_/node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/.pnpm/hookable@5.5.3/node_modules/hookable/dist/index.mjs": [],
+  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
+  "node_modules/.pnpm/pinia@3.0.1_typescript@5.8.2_vue@3.5.13_typescript@5.8.2_/node_modules/pinia/dist/pinia.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.2/node_modules/unhead/dist/client.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.2/node_modules/unhead/dist/shared/unhead.Cp0iF6eN.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.2/node_modules/unhead/dist/shared/unhead.DZbvapt-.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.2/node_modules/unhead/dist/shared/unhead.Txd0XTIP.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.2/node_modules/unhead/dist/shared/unhead.yem5I2v_.mjs": [],
+  "node_modules/.pnpm/vite-ssg@26.0.0_beasties@0.2.0_prettier@3.4.2_unhead@2.0.2_vite@6.2.3_@types+node@20.2._e555054039f198fd1b59a647ca7c9ddf/node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/.pnpm/vite-ssg@26.0.0_beasties@0.2.0_prettier@3.4.2_unhead@2.0.2_vite@6.2.3_@types+node@20.2._e555054039f198fd1b59a647ca7c9ddf/node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [],
+  "node_modules/.pnpm/vite-ssg@26.0.0_beasties@0.2.0_prettier@3.4.2_unhead@2.0.2_vite@6.2.3_@types+node@20.2._e555054039f198fd1b59a647ca7c9ddf/node_modules/vite-ssg/dist/shared/vite-ssg.ETIvV-80.mjs": [],
+  "node_modules/.pnpm/vue-i18n@11.1.2_vue@3.5.13_typescript@5.8.2_/node_modules/vue-i18n/dist/vue-i18n.runtime.mjs": [],
+  "node_modules/.pnpm/vue-router@4.5.0_vue@3.5.13_typescript@5.8.2_/node_modules/vue-router/dist/vue-router.mjs": [],
+  "node_modules/.pnpm/workbox-window@7.1.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
+    "/vite-app-full/assets/workbox-window.prod.es5-D5gOYdM7.js"
+  ],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
+    "/vite-app-full/assets/_plugin-vue_export-helper-VWUGMVK_.js"
+  ],
+  "src/components/TheInput.vue?vue&type=script&setup=true&lang.ts": [
+    "/vite-app-full/assets/index-BEfprqvo.js"
+  ],
+  "src/composables/dark.ts": [],
+  "src/layouts/404.vue": [
+    "/vite-app-full/assets/404-CFa6QsD0.js"
+  ],
+  "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/vite-app-full/assets/404-CFa6QsD0.js"
+  ],
+  "src/layouts/default.vue": [
+    "/vite-app-full/assets/default-JuDsZRFW.js"
+  ],
+  "src/layouts/home.vue": [
+    "/vite-app-full/assets/home-B9Oal2ZC.js"
+  ],
+  "src/main.ts": [],
+  "src/modules/i18n.ts": [],
+  "src/modules/nprogress.ts": [],
+  "src/modules/pinia.ts": [],
+  "src/modules/pwa.ts": [],
+  "src/pages/README.md": [
+    "/vite-app-full/assets/README-CA3qQ5Fa.js"
+  ],
+  "src/pages/[...all].vue": [
+    "/vite-app-full/assets/_...all_-BUJPQbSD.js"
+  ],
+  "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
+    "/vite-app-full/assets/_...all_-BUJPQbSD.js"
+  ],
+  "src/pages/about.md": [
+    "/vite-app-full/assets/about-Yc_cL-h4.js"
+  ],
+  "src/pages/hi/[name].vue": [
+    "/vite-app-full/assets/_name_-A9FhIWZ2.js"
+  ],
+  "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
+    "/vite-app-full/assets/_name_-A9FhIWZ2.js"
+  ],
+  "src/pages/index.vue": [
+    "/vite-app-full/assets/index-BEfprqvo.js"
+  ],
+  "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
+    "/vite-app-full/assets/index-BEfprqvo.js"
+  ],
+  "src/stores/user.ts": [
+    "/vite-app-full/assets/user-BLVcszm_.js"
+  ],
+  "src/styles/main.css": []
+}
