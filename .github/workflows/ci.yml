@@ -94,3 +94,9 @@ jobs:
           install-command: echo
           build: pnpm run build
           start: npx vite preview --port 3333
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.token }}
+          publish_dir: ./dist
