@@ -13,11 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v3
       - uses: actions/setup-node@v4
         with:
           node-version: lts/*
           cache: pnpm
-      - uses: pnpm/action-setup@v3
+
       - name: Install
         run: pnpm install --frozen-lockfile
       - name: Lint
@@ -27,11 +28,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v3
       - uses: actions/setup-node@v4
         with:
           node-version: lts/*
           cache: pnpm
-      - uses: pnpm/action-setup@v3
+
       - name: Install
         run: pnpm install --frozen-lockfile
       - name: Typecheck
@@ -42,11 +44,12 @@ jobs:
     needs: [lint, typecheck]
     steps:
       - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v3
       - uses: actions/setup-node@v4
         with:
           node-version: lts/*
           cache: pnpm
-      - uses: pnpm/action-setup@v3
+
       - name: Install
         run: pnpm install --frozen-lockfile
       - name: Build
@@ -58,11 +61,12 @@ jobs:
     needs: build
     steps:
       - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v3
       - uses: actions/setup-node@v4
         with:
           node-version: lts/*
           cache: pnpm
-      - uses: pnpm/action-setup@v3
+
       - name: Install
         run: pnpm install --frozen-lockfile
       - name: Build
