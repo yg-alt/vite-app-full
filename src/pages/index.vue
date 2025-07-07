@@ -19,6 +19,7 @@ useHead({
 
 <template>
   <div>
+    <el-button>I am ElButton</el-button>
     <div text-4xl>
       <div i-carbon-campsite inline-block />
     </div>
