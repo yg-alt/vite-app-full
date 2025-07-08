@@ -21,13 +21,13 @@
   "\u0000/home/runner/work/vite-app-full/vite-app-full/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
   "\u0000commonjsHelpers.js": [],
   "\u0000plugin-vue:export-helper": [
-    "/vite-app-full/assets/_plugin-vue_export-helper-DXTbq5Co.js"
+    "/vite-app-full/assets/_plugin-vue_export-helper-BBAkGbPk.js"
   ],
   "\u0000virtual:generated-layouts": [],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/vite-app-full/assets/virtual_pwa-register-Cp27gI_u.js"
+    "/vite-app-full/assets/virtual_pwa-register-_IeuBdN4.js"
   ],
   "../../../../../__/vue-router/auto/route-block": [
     "/vite-app-full/assets/route-block-B_A1xBdJ.js"
@@ -35,7 +35,7 @@
   "../../../../../__uno.css": [],
   "../../../../../__vue-router/auto-routes": [],
   "../../../../../vue-macros/define-models/use-vmodel": [
-    "/vite-app-full/assets/index-CQVWAlhk.js",
+    "/vite-app-full/assets/index-BAIblCNr.js",
     "/vite-app-full/assets/index-DhOMi8yW.css"
   ],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
@@ -837,14 +837,22 @@
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/es/utils/vue/vnode.mjs": [],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/es/version.mjs": [],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/base.css": [],
+  "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-aside.css": [],
+  "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-avatar.css": [],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-button.css": [
-    "/vite-app-full/assets/index-CQVWAlhk.js",
+    "/vite-app-full/assets/index-BAIblCNr.js",
     "/vite-app-full/assets/index-DhOMi8yW.css"
   ],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-config-provider.css": [],
+  "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-container.css": [],
+  "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-footer.css": [],
+  "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-header.css": [],
+  "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-main.css": [],
+  "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-menu-item-group.css": [],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-menu-item.css": [],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-menu.css": [],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-popper.css": [],
+  "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-scrollbar.css": [],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-sub-menu.css": [],
   "node_modules/.pnpm/element-plus@2.10.3_vue@3.5.13_typescript@5.8.2_/node_modules/element-plus/theme-chalk/el-tooltip.css": [],
   "node_modules/.pnpm/hookable@5.5.3/node_modules/hookable/dist/index.mjs": [],
@@ -1077,26 +1085,24 @@
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/vite-app-full/assets/_plugin-vue_export-helper-DXTbq5Co.js"
+    "/vite-app-full/assets/_plugin-vue_export-helper-BBAkGbPk.js"
   ],
   "src/components/TheInput.vue?vue&type=script&setup=true&lang.ts": [
-    "/vite-app-full/assets/index-CQVWAlhk.js",
+    "/vite-app-full/assets/index-BAIblCNr.js",
     "/vite-app-full/assets/index-DhOMi8yW.css"
   ],
-  "src/components/layout/BaseHeader.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/components/layout/BaseHeader.vue?vue&type=style&index=0&lang.scss": [],
   "src/composables/dark.ts": [],
   "src/layouts/404.vue": [
-    "/vite-app-full/assets/404-D9Dn9DlM.js"
+    "/vite-app-full/assets/404-CLpEH_wP.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/vite-app-full/assets/404-D9Dn9DlM.js"
+    "/vite-app-full/assets/404-CLpEH_wP.js"
   ],
   "src/layouts/default.vue": [
-    "/vite-app-full/assets/default-CHYd7U60.js"
+    "/vite-app-full/assets/default-7TjNp2R1.js"
   ],
   "src/layouts/home.vue": [
-    "/vite-app-full/assets/home-Dp9wuzCT.js"
+    "/vite-app-full/assets/home-BXa8PkAt.js"
   ],
   "src/main.ts": [],
   "src/modules/i18n.ts": [],
@@ -1105,33 +1111,33 @@
   "src/modules/pwa.ts": [],
   "src/modules/ui.ts": [],
   "src/pages/README.md": [
-    "/vite-app-full/assets/README-SdvCi2-P.js"
+    "/vite-app-full/assets/README-EwYA6m7X.js"
   ],
   "src/pages/[...all].vue": [
-    "/vite-app-full/assets/_...all_-nf6d16-O.js"
+    "/vite-app-full/assets/_...all_-BJWhbgY3.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/vite-app-full/assets/_...all_-nf6d16-O.js"
+    "/vite-app-full/assets/_...all_-BJWhbgY3.js"
   ],
   "src/pages/about.md": [
-    "/vite-app-full/assets/about-DBoP9gIl.js"
+    "/vite-app-full/assets/about-DWTpAfd9.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/vite-app-full/assets/_name_-eHHvSJSL.js"
+    "/vite-app-full/assets/_name_-BqPsuUNG.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/vite-app-full/assets/_name_-eHHvSJSL.js"
+    "/vite-app-full/assets/_name_-BqPsuUNG.js"
   ],
   "src/pages/index.vue": [
-    "/vite-app-full/assets/index-CQVWAlhk.js",
+    "/vite-app-full/assets/index-BAIblCNr.js",
     "/vite-app-full/assets/index-DhOMi8yW.css"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/vite-app-full/assets/index-CQVWAlhk.js",
+    "/vite-app-full/assets/index-BAIblCNr.js",
     "/vite-app-full/assets/index-DhOMi8yW.css"
   ],
   "src/stores/user.ts": [
-    "/vite-app-full/assets/user-BvSEazN8.js"
+    "/vite-app-full/assets/user-CGqxZYhJ.js"
   ],
   "src/styles/main.scss": []
 }
